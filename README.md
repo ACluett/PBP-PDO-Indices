@@ -91,12 +91,18 @@ The script 'ERSST-EOFs-plot.R' produces the main manuscript figures and exports 
 This R script was developed using R version 4.3.1 on macOS Monterey Version 12.0.
 
 This code requires the following R packages and has been tested with the listed versions:
-data.table version 1.14.8dplyr version 1.1.3ggplot2 version 3.4.4
+data.table version 1.14.8
+dplyr version 1.1.3
+ggplot2 version 3.4.4
 ggh4x version 0.2.8
 lubridate version 1.9.2
 metR version 0.14.1
-ncdf4 version 1.21patchwork version 1.1.3purrr version 1.0.2
-raster version 3.6.26stringr version 1.5.0tictoc version 1.2
+ncdf4 version 1.21
+patchwork version 1.1.3
+purrr version 1.0.2
+raster version 3.6.26
+stringr version 1.5.0
+tictoc version 1.2
 tidyr version 1.3.0
 zoo version 1.8.12
 
